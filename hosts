@@ -1,16 +1,21 @@
+127.0.0.1 eureka7001.com
+127.0.0.1 eureka7002.com
+
 # bbchina.ml
-162.159.244.175 bbchina.ml
-162.159.244.175 xn--i8sv9y.ml
-162.159.244.175 xn--57q.ml
-162.159.244.175 xn--fpy981d.ml
-162.159.244.175 xn--zqst49f.ml
+198.41.211.160 bbchina.ml
+198.41.211.160 xn--i8sv9y.ml
+198.41.211.160 xn--57q.ml
+198.41.211.160 xn--fpy981d.ml
+198.41.211.160 xn--zqst49f.ml
+
 # hmoe.top
-162.159.244.175 www.hmoe11.net
-162.159.244.175 www.moogle.top
-162.159.244.175 i.hmoe.link
-162.159.244.175 www.g8wp.com
-162.159.244.175 hmoe.top
-162.159.244.175 xp.g8wp.com
+198.41.211.160 www.hmoe11.net
+198.41.211.160 www.moogle.top
+198.41.211.160 i.hmoe.link
+198.41.211.160 www.g8wp.com
+198.41.211.160 hmoe.top
+198.41.211.160 xp.g8wp.com
+
 # topazlabs.com
 127.0.0.1                 topazlabs.com
 127.0.0.1                 et.topazlabs.com
